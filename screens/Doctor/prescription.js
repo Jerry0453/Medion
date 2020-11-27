@@ -2,9 +2,9 @@ import React, { useRef, useState } from 'react';
 import {Button, Animated, View, Text, Image, StyleSheet, TextInput, FlatList, Modal, TouchableOpacity, ScrollView, Dimensions} from 'react-native';
 import AntDesign from 'react-native-vector-icons/AntDesign';
 import Ionicons from 'react-native-vector-icons/Ionicons';
-import COLORS, { normalize } from './Constants/colorCode';
+import COLORS, { normalize } from '../Constants/colorCode';
 import {Picker} from '@react-native-community/picker';
-import PrescriptionComponent1 from './Components/PrescriptionComponent1';
+import PrescriptionComponent1 from '../Components/PrescriptionComponent1';
 import { Colors } from 'react-native/Libraries/NewAppScreen';
 
 const data = [

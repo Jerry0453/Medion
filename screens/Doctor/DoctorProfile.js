@@ -3,7 +3,7 @@ import {Button, Animated, View, Text, Image, StyleSheet, TextInput, FlatList, Mo
 import AntDesign from 'react-native-vector-icons/AntDesign';
 import Feather from 'react-native-vector-icons/Feather';
 import COLORS, { normalize } from './Components/colorCode';
-import BlogComponent1 from './Components/BlogComponent1';
+import BlogComponent1 from '../Components/BlogComponent1';
 import BlogDetails from './BlogDetails';
 
 const chamber = [

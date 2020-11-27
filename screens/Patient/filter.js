@@ -3,7 +3,7 @@ import {View, Text, StyleSheet, FlatList, ScrollView, TouchableOpacity, Dimensio
 import AntDesign from 'react-native-vector-icons/AntDesign';
 import Feather from 'react-native-vector-icons/Feather';
 import EvilIcons from 'react-native-vector-icons/EvilIcons';
-import COLORS, {normalize} from './Constants/colorCode';
+import COLORS, {normalize} from '../Constants/colorCode';
 import RadioButtonRN from 'radio-buttons-react-native';
 
 const DATA = [
