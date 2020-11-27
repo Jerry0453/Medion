@@ -16,7 +16,7 @@ export default function Header({navigation}) {
         source={require('../images/asset-1.png')}
       />
       <TouchableOpacity style={styles.language} >
-        <Text style={{color: COLORS.HPmenuIcon}}>{selectedValue}</Text>
+        <Text style={{color: COLORS.HPmenuIcon}}>heeey</Text>
       </TouchableOpacity>
     </View>
   );
